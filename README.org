@@ -10,3 +10,15 @@
 
 2. There are a bunch of repositories that are important to me based on my projects and work. By including scripts referencing groups of submodules from this 'master' repository, I will be able to quickly clone the necessary repositories and use them. 
 
+* Scripts
+
+** Initiate and update all submodules
+
+#+BEGIN_SRC sh
+git submodule update --init
+#+END_SRC
+
+#+RESULTS:
+
+** Resources related to Shiny (R)
+
