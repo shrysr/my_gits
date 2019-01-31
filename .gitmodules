@@ -16,3 +16,12 @@
 [submodule "awesome-R"]
 	path = awesome-R
 	url = https://github.com/qinwf/awesome-R.git
+[submodule "my-awesome-AI-bookmarks"]
+	path = my-awesome-AI-bookmarks
+	url = https://github.com/goodrahstar/my-awesome-AI-bookmarks.git
+[submodule "awesome-rshiny"]
+	path = awesome-rshiny
+	url = https://github.com/grabear/awesome-rshiny.git
+[submodule "Awesome-shiny-apps-for-statistics"]
+	path = Awesome-shiny-apps-for-statistics
+	url = https://github.com/huyingjie/Awesome-shiny-apps-for-statistics.git
