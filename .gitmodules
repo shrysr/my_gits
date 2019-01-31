@@ -1,0 +1,18 @@
+[submodule "ds-cheatsheets"]
+	path = ds-cheatsheets
+	url = git@github.com:shrysr/ds-cheatsheets.git
+[submodule "hugo-sr"]
+	path = hugo-sr
+	url = git@github.com:shrysr/hugo-sr.git
+[submodule "scimax-gh"]
+	path = scimax-gh
+	url = git@github.com:shrysr/scimax
+[submodule "hadley-stats337"]
+	path = stats337
+	url = https://github.com/hadley/stats337.git
+[submodule "DataScienceR"]
+	path = DataScienceR
+	url = https://github.com/ujjwalkarn/DataScienceR.git
+[submodule "awesome-R"]
+	path = awesome-R
+	url = https://github.com/qinwf/awesome-R.git

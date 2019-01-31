@@ -1,0 +1,12 @@
+
+* Purpose
+
+- Maintain a 'master' repository containing submodules to repositories of interest
+- Provide scripts to quickly clone groups of submodules for a particular purpose. For example a bunch of good scripts for datascience applications. 
+
+* Explanations
+
+1. I keep coming across a lot of repositories which contain excellent information. It's obvious that I will not be contributing to all of them. However, I would like them readily available for searching or browsing through for information, locally, instead of repeatedly relying on github's search in a browser. Therefore, this is to try out using a master repository referencing these interesting repositories as submodules. 
+
+2. There are a bunch of repositories that are important to me based on my projects and work. By including scripts referencing groups of submodules from this 'master' repository, I will be able to quickly clone the necessary repositories and use them. 
+
