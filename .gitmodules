@@ -25,3 +25,6 @@
 [submodule "Awesome-shiny-apps-for-statistics"]
 	path = Awesome-shiny-apps-for-statistics
 	url = https://github.com/huyingjie/Awesome-shiny-apps-for-statistics.git
+[submodule "For-Data-Science-Beginners"]
+	path = For-Data-Science-Beginners
+	url = https://github.com/amrrs/For-Data-Science-Beginners.git
