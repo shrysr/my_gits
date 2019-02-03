@@ -37,3 +37,9 @@
 [submodule "alexpghayes-workshops"]
 	path = alexpghayes-workshops
 	url = https://github.com/alexpghayes/workshops_presentations.git
+[submodule "novels-barbossa"]
+	path = org
+	url = https://github.com/eubarbosa/novels.org.git
+[submodule "novels-barbosa"]
+	path = novels-barbosa
+	url = https://github.com/eubarbosa/novels.org.git
