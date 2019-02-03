@@ -25,3 +25,12 @@
 [submodule "Awesome-shiny-apps-for-statistics"]
 	path = Awesome-shiny-apps-for-statistics
 	url = https://github.com/huyingjie/Awesome-shiny-apps-for-statistics.git
+[submodule "awesome-data-science"]
+	path = awesome-data-science
+	url = git@github.com:sragavan88/awesome-data-science.git
+[submodule "awesome-public-datasets"]
+	path = awesome-public-datasets
+	url = git@github.com:sragavan88/awesome-public-datasets.git
+[submodule "awesome-awesome"]
+	path = awesome-awesome
+	url = git@github.com:sragavan88/awesome-awesome.git
