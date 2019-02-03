@@ -34,3 +34,6 @@
 [submodule "awesome-awesome"]
 	path = awesome-awesome
 	url = git@github.com:sragavan88/awesome-awesome.git
+[submodule "alexpghayes-workshops"]
+	path = alexpghayes-workshops
+	url = https://github.com/alexpghayes/workshops_presentations.git
