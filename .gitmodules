@@ -28,3 +28,22 @@
 [submodule "For-Data-Science-Beginners"]
 	path = For-Data-Science-Beginners
 	url = https://github.com/amrrs/For-Data-Science-Beginners.git
+[submodule "awesome-data-science"]
+	path = awesome-data-science
+	url = git@github.com:sragavan88/awesome-data-science.git
+[submodule "awesome-public-datasets"]
+	path = awesome-public-datasets
+	url = git@github.com:sragavan88/awesome-public-datasets.git
+[submodule "awesome-awesome"]
+	path = awesome-awesome
+	url = git@github.com:sragavan88/awesome-awesome.git
+[submodule "alexpghayes-workshops"]
+	path = alexpghayes-workshops
+	url = https://github.com/alexpghayes/workshops_presentations.git
+[submodule "novels-barbossa"]
+	path = org
+	url = https://github.com/eubarbosa/novels.org.git
+[submodule "novels-barbosa"]
+	path = novels-barbosa
+	url = https://github.com/eubarbosa/novels.org.git
+

@@ -1,14 +1,18 @@
 
 * Purpose
 
-- Maintain a 'master' repository containing submodules to repositories of interest
-- Provide scripts to quickly clone groups of submodules for a particular purpose. For example a bunch of good scripts for datascience applications. 
+- Experiment in maintaining a 'master' repository containing submodules of interest.
+- Use scripts to quickly clone groups of submodules for a particular purpose.
 
 * Explanations
 
-1. I keep coming across a lot of repositories which contain excellent information. It's obvious that I will not be contributing to all of them. However, I would like them readily available for searching or browsing through for information, locally, instead of repeatedly relying on github's search in a browser. Therefore, this is to try out using a master repository referencing these interesting repositories as submodules. 
+1. There are a multitude of repositories which contain excellent information and references. However, it is unlikely to be able to contribute to all of them. Therefore, forking these interesting repos is of no real use, other than cluttering up my own list of github repos.
 
-2. There are a bunch of repositories that are important to me based on my projects and work. By including scripts referencing groups of submodules from this 'master' repository, I will be able to quickly clone the necessary repositories and use them. 
+2. The 'Watch' and 'Star' options of Github could be used, but do not allow a search through these starred repos. A global search is available, but probably does not have options to go deeper into the repos for a particular file. 
+
+3. It would be invaluable to be able to search through these repos for information, code snippets, links, etc. The projectile package in Emacs (along with other tools like grep) can be used for rapidly searching through these repos.
+
+5. A new remote can be added to any submodule that I actually end up forking, thus maintaining the integrity of the master repo. 
 
 * Scripts
 
@@ -20,5 +24,37 @@ git submodule update --init
 
 #+RESULTS:
 
-** Resources related to Shiny (R)
 
+** Awesome-awesome
+
+#+BEGIN_SRC sh
+git submodule update --init awesome-awesome
+#+END_SRC
+
+
+** Data science repos
+
+#+BEGIN_SRC sh
+# Awesome repos
+git submodule update --init awesome-data-science 
+git submodule update --init awesome-public-datasets
+git submodule update --init awesome-rshiny
+git submodule update --init DataScienceR 
+git submodule update --init my-awesome-AI-bookmarks
+
+# Statistics 
+git submodule update --init stats337
+git submodule update --init Awesome-shiny-apps-for-statistics
+#+END_SRC
+
+#+RESULTS:
+
+
+** Misc
+
+#+BEGIN_SRC sh
+# Classic novels available in org mode in Emacs
+git submodule update --init novels-barbosa
+#+END_SRC
+
+#+RESULTS:
