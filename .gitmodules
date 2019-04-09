@@ -1,9 +1,6 @@
 [submodule "ds-cheatsheets"]
 	path = ds-cheatsheets
 	url = git@github.com:shrysr/ds-cheatsheets.git
-[submodule "hugo-sr"]
-	path = hugo-sr
-	url = git@github.com:shrysr/hugo-sr.git
 [submodule "scimax-gh"]
 	path = scimax-gh
 	url = git@github.com:shrysr/scimax
@@ -46,4 +43,3 @@
 [submodule "novels-barbosa"]
 	path = novels-barbosa
 	url = https://github.com/eubarbosa/novels.org.git
-
