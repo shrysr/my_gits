@@ -43,3 +43,6 @@
 [submodule "novels-barbosa"]
 	path = novels-barbosa
 	url = https://github.com/eubarbosa/novels.org.git
+[submodule "awesome-machine-learning-interpretability"]
+	path = awesome-machine-learning-interpretability
+	url = https://github.com/jphall663/awesome-machine-learning-interpretability.git
