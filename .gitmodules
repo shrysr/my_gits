@@ -46,3 +46,6 @@
 [submodule "awesome-machine-learning-interpretability"]
 	path = awesome-machine-learning-interpretability
 	url = https://github.com/jphall663/awesome-machine-learning-interpretability.git
+[submodule "DS-Career-Resources"]
+	path = DS-Career-Resources
+	url = https://github.com/conordewey3/DS-Career-Resources.git
